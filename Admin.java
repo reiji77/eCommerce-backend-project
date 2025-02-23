@@ -1,3 +1,3 @@
-public class Sale {
+public class Admin {
     
 }
